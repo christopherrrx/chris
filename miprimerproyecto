@@ -1,0 +1,3 @@
+import random
+emojis= [ "ˆˆ", ":)", ":O" ]
+print(random.choice(emojis))
